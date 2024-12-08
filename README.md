@@ -1,3 +1,6 @@
+<center><h2>🚀 PhotonRAG: A LightRAG Fork</h2></center>
+<center><h4>We aim to is to improve LightRAG by maintaining context while chunking (possibly by using sliding window with padding) and Reduse token Utilization to reduce cost</h4></center>
+
 <center><h2>🚀 LightRAG: Simple and Fast Retrieval-Augmented Generation</h2></center>
 
 
